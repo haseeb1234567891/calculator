@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+  // updated the code
 int num1, num2, num3; // Taking inputs
 cout << "Enter three numbers: "; 
 cin >> num1 >> num2 >> num3; // Finding the maximum number
